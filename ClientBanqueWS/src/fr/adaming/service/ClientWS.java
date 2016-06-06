@@ -5,6 +5,7 @@ import java.util.List;
 public class ClientWS {
 
 	public static void main(String[] args) {
+		//Mon main
 		//creer un stub
 		BanqueWS stub = new BanqueServiceService().getBanqueWSPort();
 
